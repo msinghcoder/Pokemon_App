@@ -1,6 +1,6 @@
 # Getting Started with Pokemon App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). We have used react frameork. To run this code follow these steps -
+ We have used react js library to build this single page web application. To run this code follow these steps -
 
 First go to project directory where package.json file is located And run the npm install command to install all required packages.
 Then run npm start command and wou can browse the application  on http://localhost:3000
